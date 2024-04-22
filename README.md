@@ -23,6 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laila-gaber&show_icons=true&locale=en&layout=compact" alt="laila-gaber" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laila-gaber&show_icons=true&locale=en" alt="laila-gaber" /></p>
 
-/*<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laila-gaber&" alt="laila-gaber" /></p>*/
